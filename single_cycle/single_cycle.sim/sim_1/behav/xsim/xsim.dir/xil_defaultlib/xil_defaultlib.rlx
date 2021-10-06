@@ -1,0 +1,16 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/CODING/VivadoProjects/bitmips/lab3/single_cycle/single_cycle.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/CODING/VivadoProjects/bitmips/lab3/single_cycle/single_cycle.srcs/sim_1/new/testbench.v,1600844028,verilog,,,,testbench,,,../../../../single_cycle.srcs/sources_1/new/myCPU,,,,,
+D:/CODING/VivadoProjects/bitmips/lab3/single_cycle/single_cycle.srcs/sources_1/new/confreg/confreg.v,1600844028,verilog,,D:/CODING/VivadoProjects/bitmips/lab3/single_cycle/single_cycle.srcs/sources_1/new/myCPU/control.v,,confreg,,,../../../../single_cycle.srcs/sources_1/new/myCPU,,,,,
+D:/CODING/VivadoProjects/bitmips/lab3/single_cycle/single_cycle.srcs/sources_1/new/ip/data_ram/sim/data_ram.v,1629881625,verilog,,D:/CODING/VivadoProjects/bitmips/lab3/single_cycle/single_cycle.srcs/sources_1/new/ip/inst_rom/sim/inst_rom.v,,data_ram,,,../../../../single_cycle.srcs/sources_1/new/myCPU,,,,,
+D:/CODING/VivadoProjects/bitmips/lab3/single_cycle/single_cycle.srcs/sources_1/new/ip/inst_rom/sim/inst_rom.v,1631175143,verilog,,D:/CODING/VivadoProjects/bitmips/lab3/single_cycle/single_cycle.srcs/sources_1/new/myCPU/alu.v,,inst_rom,,,../../../../single_cycle.srcs/sources_1/new/myCPU,,,,,
+D:/CODING/VivadoProjects/bitmips/lab3/single_cycle/single_cycle.srcs/sources_1/new/myCPU/alu.v,1630723468,verilog,,D:/CODING/VivadoProjects/bitmips/lab3/single_cycle/single_cycle.srcs/sources_1/new/confreg/confreg.v,D:/CODING/VivadoProjects/bitmips/lab3/single_cycle/single_cycle.srcs/sources_1/new/myCPU/macro.vh,alu,,,../../../../single_cycle.srcs/sources_1/new/myCPU,,,,,
+D:/CODING/VivadoProjects/bitmips/lab3/single_cycle/single_cycle.srcs/sources_1/new/myCPU/control.v,1630768203,verilog,,D:/CODING/VivadoProjects/bitmips/lab3/single_cycle/single_cycle.srcs/sources_1/new/myCPU/cpu.v,D:/CODING/VivadoProjects/bitmips/lab3/single_cycle/single_cycle.srcs/sources_1/new/myCPU/macro.vh,control,,,../../../../single_cycle.srcs/sources_1/new/myCPU,,,,,
+D:/CODING/VivadoProjects/bitmips/lab3/single_cycle/single_cycle.srcs/sources_1/new/myCPU/cpu.v,1629824214,verilog,,D:/CODING/VivadoProjects/bitmips/lab3/single_cycle/single_cycle.srcs/sources_1/new/myCPU/pc.v,,mycpu,,,../../../../single_cycle.srcs/sources_1/new/myCPU,,,,,
+D:/CODING/VivadoProjects/bitmips/lab3/single_cycle/single_cycle.srcs/sources_1/new/myCPU/macro.vh,1630768183,verilog,,,,,,,,,,,,
+D:/CODING/VivadoProjects/bitmips/lab3/single_cycle/single_cycle.srcs/sources_1/new/myCPU/pc.v,1629823715,verilog,,D:/CODING/VivadoProjects/bitmips/lab3/single_cycle/single_cycle.srcs/sources_1/new/myCPU/regfile.v,,pc,,,../../../../single_cycle.srcs/sources_1/new/myCPU,,,,,
+D:/CODING/VivadoProjects/bitmips/lab3/single_cycle/single_cycle.srcs/sources_1/new/myCPU/regfile.v,1629819745,verilog,,D:/CODING/VivadoProjects/bitmips/lab3/single_cycle/single_cycle.srcs/sources_1/new/single_cycle.v,,regfile,,,../../../../single_cycle.srcs/sources_1/new/myCPU,,,,,
+D:/CODING/VivadoProjects/bitmips/lab3/single_cycle/single_cycle.srcs/sources_1/new/single_cycle.v,1600844028,verilog,,D:/CODING/VivadoProjects/bitmips/lab3/single_cycle/single_cycle.srcs/sim_1/new/testbench.v,,single_cycle,,,../../../../single_cycle.srcs/sources_1/new/myCPU,,,,,
